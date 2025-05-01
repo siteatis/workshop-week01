@@ -1,7 +1,9 @@
 # workshop-week01
 
-- This is the readme file for a webpage
+- This is the readme file for a Jason's week 01 workshops
 
-## another title
+# VS Code Live Server
 
-- The above title is the title for this section
+- Put resources in a resources folder and set Live Server settings
+- to mount it as [/resources]. Although I suppose that does mean
+- that code I paste and submit won't work 'as is'...

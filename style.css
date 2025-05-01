@@ -1,8 +1,7 @@
+.positioning-demo {
+    background-color: violet;
+}
+
 h2 {
     position: sticky;
 }
-/* absolute blah */
-/* check if ignored contradictory positions based on order */
-/* relative is relative to parent container (but what if that changes size according to children? and is relative on the parent, or the element? read MDN on css position */
-/* fixed maket it stay in plce regardless of scrolling */
-/* z-index: >0 is behind */
