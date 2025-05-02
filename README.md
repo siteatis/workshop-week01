@@ -1,6 +1,6 @@
 # workshop-week01
 
-- This is the readme file for a Jason's week 01 workshops
+- This is the readme file for Jason's week 01 workshops.
 
 # VS Code Live Server
 
